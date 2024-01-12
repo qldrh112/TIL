@@ -1,3 +1,0 @@
-add a.txt
-update a.txt
-이거 변경하고 github에 올릴 거
